@@ -1,6 +1,7 @@
 ## Hi there 👋
 arch btw :shipit:
--# i actually use endeavourOS since i'm too lazy to install arch
+
+<sub> i actually use endeavourOS since i'm too lazy to install arch </sub>
 <!--
 **eveee00/eveee00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
