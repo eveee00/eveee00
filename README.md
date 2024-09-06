@@ -5,7 +5,7 @@ arch btw :shipit:
 
 But on a more serious note:
 - 😄 Pronouns: Any
-- ⚡ Fun fact: nothing, hehe
+- ⚡ Fun fact: :3
 - I know how to use a terminal.
 - ![shipit](https://github.com/user-attachments/assets/49df612a-5c08-45a6-8d47-72950b5bf595)
 
