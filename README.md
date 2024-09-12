@@ -10,6 +10,3 @@ But on a more serious note:
 - ![shipit](https://github.com/user-attachments/assets/49df612a-5c08-45a6-8d47-72950b5bf595)
 
   <sub>this emoji is peak</sub>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=eveee00.eveee00&left_color=green&right_color=red)
