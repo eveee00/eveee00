@@ -8,3 +8,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eveee00&label=Profile%20views&color=0e75b6&style=flat" alt="eveee00" /> </p>
 <p align="left">
 </p>
+
+*some repos here are for school. please ignore them.
