@@ -1,7 +1,8 @@
 <h1 align="center">Hi! 👋 I'm eveee00</h1>
 <h3 align="center">arch btw :shipit:</h3>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#**<br>
+<sub>also rust but shhhhhh</sub>
 
 - ⚡ Fun fact **actually, i use endeavourOS**
 
