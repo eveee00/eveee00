@@ -9,3 +9,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eveee00&label=Profile%20views&color=0e75b6&style=flat" alt="eveee00" /> </p>
 <p align="left">
 </p>
+<img src="https://api.statusbadges.me/badge/status/675299056070688789" alt="status">
+<img src="https://api.statusbadges.me/badge/playing/675299056070688789" alt="playing">
