@@ -10,4 +10,4 @@
 <p align="left">
 </p>
 <img src="https://api.statusbadges.me/badge/status/675299056070688789" alt="status">
-<img src="https://api.statusbadges.me/badge/playing/675299056070688789" alt="playing">
+<img src="https://api.statusbadges.me/badge/playing/675299056070688789?fallback=Nothing!" alt="playing">
